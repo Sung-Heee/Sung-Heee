@@ -27,7 +27,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sung-Heee&&show_icons=true&theme=transparent)
 
 <!-- 깃허브 Top Langs -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sung-Heee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sung-Heee)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
