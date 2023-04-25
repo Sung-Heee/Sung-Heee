@@ -47,4 +47,6 @@ Here are some ideas to get you started:
 <!-- 깃허브 스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sung-Heee&&show_icons=true&theme=transparent)
 
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sung-Heee)](https://github.com/anuraghazra/github-readme-stats)
+
 
