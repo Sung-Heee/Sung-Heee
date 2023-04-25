@@ -15,10 +15,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
-<h3>💪🏼 Tools</h3>
-
-
-<h3>🐶 About Me</h3>
+<h3>🐶 Contact</h3>
 
 <!--
 ![javaScript](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black)
