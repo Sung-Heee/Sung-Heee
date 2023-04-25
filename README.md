@@ -17,25 +17,7 @@
 
 <h3>🐶 Contact</h3>
 <a href="https://sheeheehee.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:heeeee0220@gmail.com" target="_blank"><img src="https://img.shields.io/badge/heeeee0220@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<!--
-![javaScript](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black)
-**HeeHeeHee-github/HeeHeeHee-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+<a href="mailto:heeeee0220@gmail.com" target="_blank"><img src="https://img.shields.io/badge/heeeee0220@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
 <!-- 깃허브 방문자 수 -->           
@@ -44,9 +26,9 @@ Here are some ideas to get you started:
 <!-- 깃허브 스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sung-Heee&&show_icons=true&theme=transparent)
 
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sung-Heee)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 깃허브 Top Langs -->
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sung-Heee)](https://github.com/anuraghazra/github-readme-stats)
   
-  
-  </div>
+</div>
 
 
