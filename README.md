@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 <!-- 깃허브 방문자 수 -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSung-Heee&count_bg=%2361CFC5&title_bg=%23767676&icon=github.svg&icon_color=%23FFFFFF&title=git&edge_flat=false"/></a>
+
+<!-- 깃허브 스탯 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sung-Heee&&show_icons=true&theme=buefy)]
+
