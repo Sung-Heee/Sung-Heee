@@ -19,11 +19,13 @@
 <div align=center><h3>💪🏼 Tools</h3></div>
 
 
-<div align=center><h3>🐱 About Me</h3></div>
+<div align=center><h3>🐶 About Me</h3></div>
 
 <!--
 ![javaScript](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black)
 **HeeHeeHee-github/HeeHeeHee-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 Here are some ideas to get you started:
 
@@ -41,8 +43,13 @@ Here are some ideas to get you started:
 
 
 <!-- 깃허브 방문자 수 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)             
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSung-Heee&count_bg=%2361CFC5&title_bg=%23767676&icon=github.svg&icon_color=%23FFFFFF&title=git&edge_flat=false"/></a>
 
 <!-- 깃허브 스탯 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sung-Heee&&show_icons=true&theme=transparent)
+
+
+<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sung-Heee&&show_icons=true&theme=transparent)</div>
+
 
