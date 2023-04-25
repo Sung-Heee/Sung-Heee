@@ -1,5 +1,4 @@
-<div align=center><h1>Hi Welcome, I'm SUNGHEE CHO 👋</h1></div>
-
+<div align=center><h2>Hi Welcome, I'm SUNGHEE CHO 👋</h2></div>
 
 
 <div align=center><h3>🛠️ Skills</h3></div>
