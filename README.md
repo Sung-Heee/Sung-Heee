@@ -16,7 +16,8 @@
 
 
 <h3>🐶 Contact</h3>
-
+<a href="https://sheeheehee.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:heeeee0220@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--
 ![javaScript](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black)
 **HeeHeeHee-github/HeeHeeHee-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
