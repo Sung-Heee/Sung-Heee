@@ -1,6 +1,6 @@
 <div align=center>
-<!-- <h2>Hi Welcome, I'm SUNGHEE CHO 👋</h2> -->
-<h3>Skills</h3>
+<!--  <h2>Hi Welcome, I'm SungHee Cho 👋</h2> -->
+<h3>Skills</h3> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white">
